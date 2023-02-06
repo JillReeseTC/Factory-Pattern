@@ -23,16 +23,6 @@ namespace FactoryPattern
                     Console.WriteLine($"You have a unique vehicle!");
                     return new Car();
             }
-
-        }
-
-
-
-
-
-        }
-              
-            
         }
     }
 }
